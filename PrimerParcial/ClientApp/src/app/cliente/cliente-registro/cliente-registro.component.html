@@ -1,0 +1,39 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            <h2>Registro de Clientes</h2>
+            <form>
+
+                <div class="form-group">
+                    <label>Identificacion</label>
+                    <input type="text" name="identificacion" [(ngModel)]="cliente.identificacion"
+                        class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label>Nombre</label>
+                    <input type="text" name="nombre" [(ngModel)]="cliente.nombre" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label>Capital Inicial Del Credito</label>
+                    <input type="number" name="capitalInicialDeCredito" [(ngModel)]="cliente.capitalInicialDeCredito" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label>Tasa De Interes Compuesto</label>
+                    <input type="number" name="tasaDeInteresCompuesto" [(ngModel)]="cliente.tasaDeInteresCompuesto" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label>Tiempo De Duracion De Credito</label>
+                    <input type="number" name="tiempoDeDuracionDelCredito" [(ngModel)]="cliente.tiempoDeDuracionDeCredito" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label>Valor Total A Pagar</label>
+                    <input type="number" name="valorTotalAPagar" [(ngModel)]="cliente.valorTotalAPagar" class="form-control" disabled />
+                </div>
+                <div class="text-center">
+                    <button class="btn btn-primary mr-1" (click)="add()">Register</button>
+                    <button class="btn btn-secondary" type="reset">Cancel</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

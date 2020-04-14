@@ -1,0 +1,14 @@
+C:\Users\anton\Desktop\PrimerParcial\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\PrimerParcial\Logica\obj\Debug\netstandard2.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\PrimerParcial\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+C:\Users\anton\Desktop\PrimerParcial\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+C:\Users\anton\Desktop\PrimerParcial\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+C:\Users\anton\Desktop\PrimerParcial\Logica\bin\Debug\netstandard2.0\Logica.dll
+C:\Users\anton\Desktop\PrimerParcial\Logica\bin\Debug\netstandard2.0\Logica.pdb
+C:\Users\anton\Desktop\PrimerParcial\Logica\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\anton\Desktop\PrimerParcial\Logica\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\anton\Desktop\PrimerParcial\Logica\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\anton\Desktop\PrimerParcial\Logica\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\anton\Desktop\PrimerParcial\Logica\obj\Debug\netstandard2.0\Logica.csproj.CopyComplete
+C:\Users\anton\Desktop\PrimerParcial\Logica\obj\Debug\netstandard2.0\Logica.dll
+C:\Users\anton\Desktop\PrimerParcial\Logica\obj\Debug\netstandard2.0\Logica.pdb

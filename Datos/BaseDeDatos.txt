@@ -1,0 +1,12 @@
+CREATE DATABASE [Creditos];
+USE [Creditos]
+CREATE TABLE [dbo].[Cliente](
+[Identificacion] [nvarchar](10) NOT NULL PRIMARY KEY,
+[Nombre] [nvarchar](50) NULL,
+[CapitalInicialDeCredito] [float](2) NULL,
+[TasaDeInteresCompuesto] [float] NULL,
+[TiempoDeDuracionDelCredito] [float] NULL,
+[ValorTotalAPagar] [float] NULL,
+)
+GO
+COMMIT
